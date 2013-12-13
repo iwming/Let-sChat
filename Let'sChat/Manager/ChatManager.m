@@ -279,7 +279,7 @@ static const int ddLogLevel = LOG_LEVEL_INFO;
 	// myJID = @"user@gmail.com/xmppframework";
 	// myPassword = @"";
 	
-    myJID = @"test@wangmintekiMac-mini.local";
+    myJID = @"minmin@ousatoshitekimac-mini.local";
     myPassword = @"test";
     
     
